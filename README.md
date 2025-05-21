@@ -18,10 +18,3 @@ A simple and interactive Kanban board built with React, Vite, and Tailwind CSS. 
 
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/kanban-board.git
-   cd kanban-board
